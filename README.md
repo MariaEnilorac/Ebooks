@@ -17,3 +17,4 @@ Este projeto combina o poder de ferramentas de inteligência artificial para cri
 - **Título:** Crie um titulo para um ebook a introdução à lógica de
 programação, incluindo manipulação de variáveis, estruturas de controle de fluxo e
 dados básicos, usando a linguagem Javascript.
+- **Conteúdo:** Faça um texto para ebook , com foco na introdução a lógica de programação incluindo manipulação de variáveis, estruturas de controle de fluxo e dados básicos, usando a linguagem Javascript. Com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico e preciso que seja mencionado também a pseudolinguagem como o Portugol para reforçar o conteúdo de lógica de programação
